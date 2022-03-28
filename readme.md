@@ -1,0 +1,3 @@
+Project Sleep App was made with the Replit Intro to Java curriculum.
+
+Project Sleep App's purpose is to help the user organize set up their sleeping and waking hours. In order to do this, the app first asks for their name. Next, the app asks when they want to sleep, how long they want to sleep, and when they want to wake up. Then, the app asks several questions to determine if they are using this app for work purposes. Throughout this process, the app prints out the user's input. Finally, the app summarizes all of the user's inputs in one sentence. 
